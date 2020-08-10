@@ -1,0 +1,15 @@
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\bin\Debug\netcoreapp3.1\DohlerAttendanceApp.Core.dll
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\obj\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.csprojAssemblyReference.cache
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\obj\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.AssemblyInfoInputs.cache
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\obj\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.AssemblyInfo.cs
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\bin\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.deps.json
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\bin\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.runtimeconfig.json
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\bin\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.runtimeconfig.dev.json
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\bin\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.dll
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\bin\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.pdb
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\bin\Debug\netcoreapp3.1\DohlerAttendanceApp.Core.pdb
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\obj\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.csproj.CoreCompileInputs.cache
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\obj\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.csproj.CopyComplete
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\obj\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.dll
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\obj\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.pdb
+F:\Projects\DohlarAttendence\trial01\DohlerAttendanceApp.DAL\obj\Debug\netcoreapp3.1\DohlerAttendanceApp.DAL.genruntimeconfig.cache
